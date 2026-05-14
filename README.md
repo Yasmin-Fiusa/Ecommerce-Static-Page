@@ -1,5 +1,5 @@
 <h1>🛍️ Divas Store - Semana do Consumidor</h1>
-Projeto de uma página de vendas estática desenvolvido para a campanha "Semana do Consumidor", focada em produtos de tecnologia e periféricos gamer. Este projeto foi realizado como parte de uma avaliação prática de Desenvolvimento Front-end para o curso de Engenharia de Software.
+Projeto de uma página de vendas estática desenvolvido para a campanha "Semana do Consumidor", focada em produtos de tecnologia e periféricos gamer. Este projeto foi realizado como parte de uma avaliação prática de Desenvolvimento Web Front-end para o curso de Engenharia de Software.
 
 <h3>🎯 Objetivo</h3>
 O desafio consistia em construir uma página funcional e visualmente organizada que atendesse aos requisitos de legibilidade, clareza e adaptabilidade para diferentes tamanhos de tela (responsividade).
