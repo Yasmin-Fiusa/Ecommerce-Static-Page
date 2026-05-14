@@ -41,6 +41,6 @@ Estudante de Engenharia de Software na UniEvangélica
 <b>1. Clone o repositório:</b>
 
 ```bash
-git clone https://github.com/seu-usuario/Ecommerce-Static-Page.git
+git clone https://github.com/Yasmin-Fiusa/Ecommerce-Static-Page.git
 ```
 <b>2. Abra o arquivo `index.html` no seu navegador de preferência.</b>
